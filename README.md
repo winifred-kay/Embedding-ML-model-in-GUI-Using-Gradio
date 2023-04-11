@@ -5,7 +5,7 @@ Building models that solves real life problems is great but not so useful if it 
 ##### What is Gradio?
 Gradio is an open-source Python package that allows you to quickly create easy-to-use, customizable UI components for your ML model, any API, or even an arbitrary Python function using a few lines of code. 
 
-This project seeks to use streamlit to create a friendly interface for a sales prediction model created to predict sales based on a dataset.
+This project seeks to use gradio to create a friendly interface for a for a classification model that groups customers into churn or not churn base.
 
 ## Required Installations
 1. To run this project you should have python 3 and above installed
