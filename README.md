@@ -12,7 +12,8 @@ This project seeks to use streamlit to create a friendly interface for a sales p
 2. Install streamlit using pip
 3. Have anaconda or visual studio code
 4. Not a requirement but advisable to create a virtual environment to run.
-5. Copy and paste the lie below in your terminal to run this project.
+5. Replace your image location in the app.py file
+6. Copy and paste the lie below in your terminal to run this project.
     streamlit run "your file location/app.py"
   
 ## Project Flow
